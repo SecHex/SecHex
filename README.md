@@ -7,7 +7,4 @@
 
 
 
-![kisspng-patrick-bateman-american-psycho-gif-christian-bale-5b972ee5a942f3 7419089515366345976933 (1)](https://user-images.githubusercontent.com/96635023/230746484-ca67261d-82d9-4227-8487-19ffae0c3ece.png)
-
-
 
