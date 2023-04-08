@@ -4,7 +4,7 @@
 
 <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapunzel-ware&layout=compact&theme=dark" />
 
-<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green" />
+
 
 
 
