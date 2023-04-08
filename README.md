@@ -1,4 +1,4 @@
-# Wasup homie, im RPZ-WARE👋
+# Welcome to my Github👋
 
 <picture>
 <source 
