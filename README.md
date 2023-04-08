@@ -1,3 +1,5 @@
+# Wasup homie, im RPZ-WARE👋
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Rapunzel-ware&show_icons=true&theme=dark"
@@ -9,3 +11,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Rapunzel-ware&show_icons=true" />
 </picture>
+
