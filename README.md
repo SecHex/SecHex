@@ -1,5 +1,5 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="width: 47%;">
+  <div style="width: 46%;">
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Rapunzel-ware&show_icons=true&theme=dark" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapunzel-ware&layout=compact&theme=dark" />
   </div>
