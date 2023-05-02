@@ -12,7 +12,7 @@
 </div>
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Rapunzel-ware&no-bg=true&theme=gitdimmed" />
+    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=Rapunzel-ware&no-bg=true&theme=gitdimmed" />
   </a>
 </div>
 
