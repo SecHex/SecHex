@@ -1,6 +1,6 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="width: 47%;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rapunzel-ware&show_icons=true&theme=dark" />
+    <img width="20%" src="https://github-readme-stats.vercel.app/api?username=Rapunzel-ware&show_icons=true&theme=dark" />
   </div>
   <div style="width: 42%;">
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapunzel-ware&layout=compact&theme=dark" />
