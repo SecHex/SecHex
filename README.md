@@ -16,7 +16,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Rapunzel-ware)
+![](https://komarev.com/ghpvc/?username=Rapunzel-ware&color=grey)
 
 
 
