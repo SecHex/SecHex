@@ -6,6 +6,6 @@
 
 # Trophys 🏆                           
                        
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rapunzel-ware)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh))
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rapunzel-ware)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Rapunzel-ware&theme=juicyfresh))
 
 
