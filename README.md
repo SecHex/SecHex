@@ -1,4 +1,4 @@
-<!-- Zeile 1: Statistikbilder -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 <div>
     <h2>Welcome to my Github 👋</h2>
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rapunzel-ware&show_icons=true&theme=dark" />
