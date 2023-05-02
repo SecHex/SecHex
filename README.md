@@ -7,6 +7,7 @@
 
 <!-- Zeile 2: Trophy-Text -->
 <div>
+    <div style="display: flex; justify-content: center;">
     <h2>Trophys 🏆</h2>
     <br />
     <img src="https://github-profile-trophy.vercel.app/?username=Rapunzel-ware&no-bg=true&theme=gitdimmed" />
