@@ -1,4 +1,4 @@
-```
+```python
 class Attributes(sechex):
 	@staticmethod
 	def get_contact_info() -> tuple:
