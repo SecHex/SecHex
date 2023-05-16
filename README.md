@@ -8,13 +8,7 @@
 </div>
 ![](https://komarev.com/ghpvc/?username=SecHex&color=grey)
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <h2>Trophys 🏆</h2>
-</div>
-<div style="display: flex; justify-content: center;">
 
-  </a>
-</div>
 
 
 
