@@ -4,7 +4,6 @@
   <h2>Welcome to my Github 👋</h2>
   <div style="width: 46%;">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SecHex&show_icons=true&theme=dark" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecHex&layout=compact&theme=dark" />
   </div>
 </div>
 
@@ -12,8 +11,7 @@
   <h2>Trophys 🏆</h2>
 </div>
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="85%" src="https://github-profile-trophy.vercel.app/?username=SecHex&no-bg=true&theme=gitdimmed" />
+
   </a>
 </div>
 
