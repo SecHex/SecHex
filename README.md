@@ -6,6 +6,7 @@
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SecHex&show_icons=true&theme=dark" />
   </div>
 </div>
+![](https://komarev.com/ghpvc/?username=SecHex&color=grey)
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <h2>Trophys 🏆</h2>
@@ -15,7 +16,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=SecHex&color=grey)
+
 
 
 
