@@ -31,12 +31,6 @@ public class Attributes
 
 
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="width: 46%;">
-  </div>
-</div>
-
 ![](https://komarev.com/ghpvc/?username=SecHex&color=grey)
 
 
