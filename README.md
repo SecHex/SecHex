@@ -1,4 +1,4 @@
-´´´css
+```css
 public class Attributes
 {
     public static Tuple<string> GetContactInfo()
@@ -25,7 +25,7 @@ public class Attributes
         return Tuple.Create(languages, specialities);
     }
 }
-´´´
+```
 
 
 
