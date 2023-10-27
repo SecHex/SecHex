@@ -7,7 +7,8 @@
 </div>
 
 
-[![](https://dcbadge.vercel.app/api/server/SecHex)](https://discord.gg/SecHex?theme=gray)
+<div [![](https://dcbadge.vercel.app/api/server/SecHex)](https://discord.gg/SecHex?theme=gray)
+  </div>
 ![](https://komarev.com/ghpvc/?username=SecHex&color=grey)
 
 
