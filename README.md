@@ -4,9 +4,7 @@
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SecHex&show_icons=true&theme=dark" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecHex&theme=dark&layout=compact" />
   </div>
-</div>
-
--> [Discord-Nitro-Boost[BOT]](https://youtu.be/hvL1339luv0)                        
+</div>                    
 
 [![](https://dcbadge.vercel.app/api/server/SecHex?theme=gray)](https://discord.gg/SecHex?theme=gray)                          
 
