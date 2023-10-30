@@ -6,7 +6,7 @@
   </div>
 </div>
 
--> [Discord-Nitro-Boost[BOT] ]([[https://www.google.com](https://www.youtube.com/watch?v=hvL1339luv0)]())
+-> [Discord-Nitro-Boost[BOT]](https://www.google.com)
 -> Wanna collab? @xehces
 
 [![](https://dcbadge.vercel.app/api/server/SecHex?theme=gray)](https://discord.gg/SecHex?theme=gray)                          
