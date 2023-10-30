@@ -8,8 +8,6 @@
 
 -> [Discord-Nitro-Boost[BOT]](https://youtu.be/hvL1339luv0)                        
 
--> Wanna collab? @xehces
-
 [![](https://dcbadge.vercel.app/api/server/SecHex?theme=gray)](https://discord.gg/SecHex?theme=gray)                          
 
 ![](https://komarev.com/ghpvc/?username=SecHex&color=grey)
