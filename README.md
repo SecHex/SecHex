@@ -7,7 +7,7 @@
 </div>                    
 
 
-  [![](https://dcbadge.vercel.app/api/server/SecHex?theme=gray)]([https://discord.gg/SecHex](https://discord.gg/swEZPdcMNu)?theme=gray)    
+  [![](https://dcbadge.vercel.app/api/server/rWSAAwZNUG?theme=gray)]([https://discord.gg/rWSAAwZNUG](https://discord.gg/swEZPdcMNu)?theme=gray)    
 
                        
 
