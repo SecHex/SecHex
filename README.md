@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SecHex&color=grey)
 
-https://camo.githubusercontent.com/5252a4831d1e6e287707dce6c433d75869b99f0287f4e13db07165d02ac8f9d6/68747470733a2f2f692e696d6775722e636f6d2f4f5434737372472e676966
+
 
 
 
